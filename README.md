@@ -6,7 +6,7 @@ Read carefully Before you download this prototype !....
 
 "HOW TO PLAYTEST THIS GAME"
 
-After downloading right click on the game.html file
+After downloading right click on the intdex.html file
 Open on firefox to test
 Now Test out! Arrow up key = jump Arrow up key + Arrow left key= Jump right Arrow up key + Arrow left key = Jump left
 
