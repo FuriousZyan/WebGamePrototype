@@ -1,9 +1,9 @@
 # WebGamePrototype
 Prototype Test  
 
-
-Read carefully Before you download this prototype !.... <br>
-"HOW TO PLAYTEST THIS GAME"
+<pre>
+Read carefully Before you download this prototype !.... 
+"HOW TO PLAYTEST THIS GAME"<br>
 
 step 1 :- After downloading right click on the intdex.html file
 step 2 :- Open on firefox to test
@@ -33,4 +33,5 @@ for example :- lags anything ?
 4 Any Suggestions for me about this game ?
 
 THANK YOU SO MUCH FOR HELPING ME OUT HAVE A NICE DAY :).
+</pre>
 
