@@ -2,7 +2,7 @@
 Prototype Test  
 
 
-<h1>Read carefully Before you download this prototype !....<h1><br>
+<h1>Read carefully Before you download this prototype !....</h1><br>
 "HOW TO PLAYTEST THIS GAME"<br>
 
 step 1 :- After downloading right click on the intdex.html file<br>
