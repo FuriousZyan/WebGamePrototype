@@ -1,7 +1,7 @@
 # WebGamePrototype
 Prototype Test  
 
-<pre>
+
 Read carefully Before you download this prototype !.... 
 "HOW TO PLAYTEST THIS GAME"<br>
 
@@ -33,5 +33,5 @@ for example :- lags anything ?
 4 Any Suggestions for me about this game ?
 
 THANK YOU SO MUCH FOR HELPING ME OUT HAVE A NICE DAY :).
-</pre>
+
 
