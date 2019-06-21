@@ -1,8 +1,10 @@
 # WebGamePrototype
 Prototype Test  
 
-Updated 3 minutes ago
-Read carefully Before you download this prototype !.... "HOW TO PLAYTEST THIS GAME"
+
+Read carefully Before you download this prototype !.... 
+
+"HOW TO PLAYTEST THIS GAME"
 
 After downloading right click on the game.html file
 Open on firefox to test
