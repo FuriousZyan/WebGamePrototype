@@ -19,7 +19,7 @@ step 4 :- If you fall from ground just refresh the game page :)<br><br>
 
 
 pls can you ans the following questions to me after a play test?<br>
-dm me on my instagram ? those ans !<br>
+dm me on my instagram/Whatsapp ? those ans !<br>
 
 1 How is my game controls ? <br>
 for example :- smooth ,keys not working etc<br>
