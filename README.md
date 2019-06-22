@@ -10,7 +10,7 @@ step 2 :- Open on firefox to test<br>
 step 3 :- Now Test out!<br>
 
 Arrow up key = jump<br>
-Arrow up key + Arrow left key= Jump right<br> 
+Arrow up key + Arrow right key= Jump right<br> 
 Arrow up key + Arrow left key = Jump left<br>
 
 or or W,A,S,D<br>
